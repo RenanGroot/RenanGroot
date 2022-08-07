@@ -1,4 +1,4 @@
-<h1> Hi, my name is Renan! But you can call me Groot too 👋😁 </h1>
+<h1> Hi, my name is Renan! But you can call me Groot 👋😁 </h1>
  
  <p>My life's goal is to help people and solve problems 🎯</p>
 
@@ -30,7 +30,6 @@
 
 </div>
 <h2>🔥My Stats:</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RenanGroot&locale=pt-br)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGroot)](https://github.com/anuraghazra/github-readme-stats)
 
 
