@@ -4,7 +4,7 @@
 
 ## 💻 About me:
  I'm a Data Scientist Enthusiast from Brazil!📊
-- I'm working as an TI intern at a multinational company
+- I'm working as an IT intern at a multinational company
 - Currently learning about Statistcs, Data Analytics and Data Visualization
 - I've already done some Front-End projects, Back-End projects and problem-solving automations
 - How to reach me: <a href="https://www.linkedin.com/in/renan-groot-85804420b/" rel="nofollow noreferrer">
