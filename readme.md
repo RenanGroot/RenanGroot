@@ -3,8 +3,8 @@
  My life's goal is to help people and solve problems 🎯
 
 ## 💻 About me:
- I'm a Data Scientist Enthusiast from Brazil!📊
-- I'm working as an IT intern at a multinational company
+ I'm a Data Analyst from Brazil!📊
+ 
 - Currently learning about Statistcs, Machine Learning and Data Visualization
 - I've already done some Front-End projects, Back-End projects and problem-solving automations
 - How to reach me: <a href="https://www.linkedin.com/in/renan-groot-85804420b/" rel="nofollow noreferrer">
