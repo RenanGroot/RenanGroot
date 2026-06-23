@@ -4,7 +4,6 @@
 
 I build end-to-end data solutions — from cloud pipelines and ETL systems to LLM-powered workflows and BI dashboards. 4+ years turning raw data into reliable, business-ready products across international teams.
 
-- 🏢 Currently: **Data Engineer @ Monument** (Dallas, TX · Remote)
 - ☁️ Main stack: **Python · SQL · GCP · BigQuery · Power BI**
 - 🌱 Currently learning: **dbt · Airflow · Snowflake · Streamlit**
 - 🤝 Open to: Data Engineering & Analytics Engineering roles
